@@ -3,7 +3,7 @@
 Стартовый проект на нашей архитектуре. 
 
 Cлои:
-- domain - built_value entities&models; 
+- domain - built_value entities & models; 
 - data - datasource с клиентом GraphQL и repository возвращающий Either-тип; 
 - presentation - page c flutter-виджетами, bloc-package использующий Union-type из freezed-package
 
